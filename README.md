@@ -9,3 +9,8 @@ At line:1 char:1
 ```powershell
 Install-Package -Name AWSPowerShell.NetCore -Source https://www.powershellgallery.com/api/v2/ -ProviderName NuGet -ExcludeVersion -Destination <path 
 ```
+
+```powershell
+$x = "abc";
+$y = 5.3
+```
